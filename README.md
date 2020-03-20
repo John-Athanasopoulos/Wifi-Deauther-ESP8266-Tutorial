@@ -27,6 +27,5 @@ bought so we know it works for sure).
 Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
 would definitely stick with it.
 
-**What else are you going to need though?**
-
+####What else are you going to need though?
 In order for the board to work, you are definitely going to need a power source.
