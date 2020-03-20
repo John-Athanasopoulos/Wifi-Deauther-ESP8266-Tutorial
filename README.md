@@ -16,9 +16,12 @@ version of the product. But enough with the words, let's see the boards you can 
 
 • **DSTIKE WiFi Deauther MiNi ESP8266 OLED** (this model already has the code needed and a small screen, so you can skip the programming
 phase and you can use it without the need of it being plugged into a laptop or smartphone)
-• **ESP8266 NodeMcu with CP2102** or **ESP8266 NodeMcu with CH340G** (although the first one is better by far. It's also the one I bought so
-we know it works for sure)
+
+• **ESP8266 NodeMcu with CP2102** or **ESP8266 NodeMcu with CH340G** (although the first one is better by far. It's also the one I
+bought so we know it works for sure)
+
 • WeMos D1 Mini ESP8266 NodeMcu 4M (generally most WeMos ESP8266 boards will work)
+
 • Other knock-off products that might work, might not (is it really worth taking the risk?)
 
 Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
