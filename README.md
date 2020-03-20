@@ -9,3 +9,17 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 
 ## What you will need (hardware)
+The main thing we are going to need to make a Wifi Deauther is an ESP8266 board. However, we have to be careful when we are buying the
+board itself, as there are a lot of knock-off products that are low-quality and therefore their attacks are at best mediocre and won't last
+for long. The price difference between the original and knock-off products is so small, that really it is not worth buying the knock-off
+version of the product. But enough with the words, let's see the boards you can actually use:
+
+• ESP8266 NodeMcu with CP2102 **or** ESP8266 NodeMcu with CH340G (although the first one is better by far. It's also the one I bought so
+we know it works for sure)
+• WeMos D1 Mini ESP8266 NodeMcu 4M (generally most WeMos ESP8266 boards will work)
+• Other knock-off products that might work, might not (is it really worth taking the risk?)
+
+Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
+would definitely stick with it.
+
+**What else are you going to need though?**
