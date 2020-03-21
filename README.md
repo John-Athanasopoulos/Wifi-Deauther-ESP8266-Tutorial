@@ -8,8 +8,8 @@ but I realised that all of them either weren't very clear, or lacked some inform
 I decided that I should make my tutorial on the Wifi Deauther, having collected all the information in one place and trying to make the
 instructions simple and short. You can navigate to the sections of the tutorial clicking on the following links:
 
-Internal Links
 <hr>
+
 ➼ [Hardware Prerequisites](#What-you-will-need)
 
 ➼ [Programming the board](#Programming-the-board)
