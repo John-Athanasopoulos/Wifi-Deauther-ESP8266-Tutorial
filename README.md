@@ -20,6 +20,8 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Using the network and attacking](#Using-the-network-and-attacking)
 
+➼ [Settins](#Settings)
+
 <hr>
 
 # Disclaimer 
