@@ -10,9 +10,9 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 <hr>
 
-➼ [Hardware Prerequisites](#What-you-will-need)
-
 ➼ [Disclaimer](#Disclaimer)
+
+➼ [Hardware Prerequisites](#What-you-will-need)
 
 ➼ [Programming the board](#Programming-the-board)
 
