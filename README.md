@@ -22,6 +22,7 @@ phase and you can use it without the need of it being plugged into a laptop or s
 
 • ***ESP8266 NodeMcu with CP2102*** or ***ESP8266 NodeMcu with CH340G*** (although the first one is better by far. It's also the one I
 bought so we know it works for sure).
+![](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 • ***WeMos D1 Mini ESP8266 NodeMcu 4M*** (generally most WeMos ESP8266 boards will work).
 
