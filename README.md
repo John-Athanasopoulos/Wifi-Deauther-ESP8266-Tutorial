@@ -63,3 +63,8 @@ and install both "arduino-esp8266-deauther" and "esp8266" (You probably already 
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/BoardsManager.png"></p>
 
 > After their installation, you should be able to see the word "INSTALLED" next to each
+
+<p align="center"><b>Now we've come to the best part.. The programming of the board.</b></p>
+Connect the 
+In order to insert the programs we want our board to execute, we will
+first need to download them.
