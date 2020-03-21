@@ -30,8 +30,8 @@ bought so we know it works for sure).
 Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
 would definitely stick with it.
 
-![DSTIKE WiFi Deauther MiNi ESP8266 OLED](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/rsz_dstike-wifi-deauther-mini-esp8266-oled.jpg)
-![ESP8266 with CP2102](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/rsz_nodemcu-lua-cp2102-1.jpg)
+<p align="left">![DSTIKE WiFi Deauther MiNi ESP8266 OLED](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/rsz_dstike-wifi-deauther-mini-esp8266-oled.jpg)</p>
+<p align="center">![ESP8266 with CP2102](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/rsz_nodemcu-lua-cp2102-1.jpg)</p>
 ![WeMos D1 Mini ESP8266 NodeMcu 4M](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/rsz_wemos-d1-mini-esp8266-wifi-development-board-0.jpg)
 
 **What else are you going to need though?**
