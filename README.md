@@ -51,8 +51,10 @@ need to download the ARDUINO IDE (found here: <a href="https://www.arduino.cc/en
 <p align="center">Be careful! We need to download the ARDUINO IDE and not use the ARDUINO WEB EDITOR.</p>
 
 Once we have downloaded the ARDUINO IDE, we need to open it and head to the Navigation Bar. After that, we need to select File(or Arduino)/Preferences and a window will open. In the *"Additional Boards Manager URLs"* field, we need to paste the following links:
+<p style="background-color:black;color=#ffffff";>
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 http://phpsecu.re/esp8266/package_deauther_index.json
 ```
+</p>
 Make sure they are on separate lines.
