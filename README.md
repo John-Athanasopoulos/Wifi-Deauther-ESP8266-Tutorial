@@ -117,6 +117,8 @@ The interface of the board's network is really user-friendly and you can possibl
 The first page is Scan and you can easily understand what it does. THe first page is broken down to 3 simple categories. The first is Access Points are all the nearby Wifi Networks that the Deauther can detect/scan, then we have Stations and lastly the saved Devices.
 To perform a scan, press APS and this will scan for all the nearby Access Points. After that, you can select a network that you want to attack with the Deauth Attack (we will get there in 2 minutes)
 
+<hr>
+
 The second page is called "SSIDs". It holds 4 values:
 • SSID: Where you put the name you want to use in the Beacon/Probe Attack
 • WPA2 (radio button)
@@ -127,5 +129,7 @@ After you are done, click on Add and if you scroll down you will see as many fak
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/SSIDs.png"></p>
 
 > Example of the creation of 20 WPA2-enabled fake wifi networks named "GitHub"
+
+<hr>
 
 We have finally arrived to the third and possibly the most important page. It's called Attacks
