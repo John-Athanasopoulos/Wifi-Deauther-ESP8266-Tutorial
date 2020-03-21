@@ -51,10 +51,15 @@ need to download the ARDUINO IDE (found here: <a href="https://www.arduino.cc/en
 <p align="center">Be careful! We need to download the ARDUINO IDE and not use the ARDUINO WEB EDITOR.</p>
 
 Once we have downloaded the ARDUINO IDE, we need to open it and head to the Navigation Bar. After that, we need to select File(or Arduino)/Preferences and a window will open. In the *"Additional Boards Manager URLs"* field, we need to paste the following links:
-<p style="background-color:black;color=#ffffff";>
+
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 http://phpsecu.re/esp8266/package_deauther_index.json
 ```
-</p>
-Make sure they are on separate lines.
+Make sure they are on separate lines. Then hit "OK" to save and again "OK" to close the window. Now we have to find our Board..
+Navigate to Tools/Board/Boards Manager. This is where we can add more boards to our ARDUINO project. Search "esp8266" in the search bar
+and install both "arduino-esp8266-deauther" and "esp8266" (You probably already have at least one of them, but do it just in case..).
+
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/BoardsManager.png"></p>
+
+> After their installation, you should be able to see the word "INSTALLED" next to each
