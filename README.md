@@ -18,6 +18,8 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Connecting to the board network](#Connecting-to-the-board-network)
 
+➼ [Using the network and attacking](#Using-the-network-and-attacking)
+
 <hr>
 
 # Disclaimer 
@@ -149,4 +151,10 @@ It is also quoted that:
 > Beacon packets are used to advertise access points. By continuously sending beacon packets out, it will look like you created new WiFi networks. You can specify the network names under SSIDs.
 
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/BeaconAttack.png"></p>
+
+<hr>
+
+Finally, for the Probe Attacks I will just quote this phrase that explains everything:
+> Probe requests are sent by client devices to ask if a known network is nearby. Use this attack to confuse WiFi trackers by asking for networks that you specified in the SSID list. It's unlikely you will see any impact by this attack with your home network.
+
 
