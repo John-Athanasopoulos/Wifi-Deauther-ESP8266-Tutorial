@@ -2,7 +2,7 @@
 
 <p align="center">A tutorial on how to make a Wifi Deauther (with beacon and probe attacks included) with an ESP8266 board!</p>
 
-## Introduction
+# Introduction
 Hello and welcome to my tutorial on how to make a Wifi Deauther with a simple ESP8266 board. There are a lot of tutorials on the internet,
 but I realised that all of them either weren't very clear, or lacked some information needed (at least for me). That's the main reason why
 I decided that I should make my tutorial on the Wifi Deauther, having collected all the information in one place and trying to make the
@@ -12,7 +12,7 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 [Programming the board](#Programming-the-board)
 
-## What you will need
+# What you will need
 The main thing we are going to need to make a Wifi Deauther is an ESP8266 board. However, we have to be careful when we are buying the
 board itself, as there are a lot of knock-off products that are low-quality and therefore their attacks are at best mediocre and won't last
 for long. The price difference between the original and knock-off products is so small, that really it is not worth buying the knock-off
@@ -43,7 +43,7 @@ micro-USB cable. They have to be connected to a laptop or smartphone with a cabl
 you are defnitely going to need a micro-USB/USB cable, and if you plan to use it through your smarthphone you will also need a
 USB to micro-USB adapter.
 
-## Programming the board
+# Programming the board
 > IF YOU HAVE A DSTIKE WiFi Deauther MiNi ESP8266 OLED BOARD OR ANY BOARD THAT IS ALREADY PROGRAMMED, SKIP THIS STEP
 
 In order to be able to use the ESP8266 board, we will need to program it to execute the attacks we want. In order to do that, we will
