@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/coollogo_com-24212736.jpg"></p>
 
 <p align="center">A tutorial on how to make a Wifi Deauther (with beacon and probe attacks included) with an ESP8266 board! For any questions you can contact me on:</p>
-<p align="center"><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/gmaillogo.jpg"></a><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/blank.jpg"><a href="https://www.instagram.com/giannis_.athanasopoulos/"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/instagramlogo.jpg"></a><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/blank.jpg"><a href="https://www.instagram.com/giannis_.athanasopoulos/"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/discordlogo.jpg"></a></p>
+<p align="center"><a href="mailto:john.athanasopoulos.dim@gmail.com"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/gmaillogo.jpg"></a><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/blank.jpg"><a href="https://www.instagram.com/giannis_.athanasopoulos/"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/instagramlogo.jpg"></a><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/blank.jpg"><a href="#discord"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/discordlogo.jpg"></a></p>
 
 # Introduction
 Hello and welcome to my tutorial on how to make a Wifi Deauther with a simple ESP8266 board. There are a lot of tutorials on the internet,
@@ -165,3 +165,8 @@ Finally, for the Probe Attacks I will just quote this phrase that explains every
 In the last page of the board's network, you can customize the settings , meaning you can change the name of the network from "pwned" to everything, the network's password and generally most things. It is advised you change both the name and the password, as the board's network is detected by other devices and everyone that knows about this project will know that there is a Wifi Deauther nearby. If you keep the default credentials, he will also able to connect to it. He probably won't be able to do anything, but why take the risk? You can see part of the Settings Page below:
 
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/Settings.png"></p>
+
+<hr>
+
+<h5><a id="discord"></a>My Discord username: </h5>
+AT3RM0N#9001
