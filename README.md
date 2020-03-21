@@ -23,6 +23,8 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Settings](#Settings)
 
+➼ [Personal Information](#Personal-Information)
+
 <hr>
 
 # Disclaimer 
@@ -156,6 +158,7 @@ In the last page of the board's network, you can customize the settings , meanin
 
 <hr>
 
+# Personal Information
 <h5><a id="discord"></a>My Discord username:</h5>
 AT3RM0N#9001
 <h5>My Email:</h5>
