@@ -1,4 +1,4 @@
- <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/coollogo_com-24212736.jpg"></p>
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/coollogo_com-24212736.jpg"></p>
 
 <p align="center">A tutorial on how to make a Wifi Deauther (with beacon and probe attacks included) with an ESP8266 board!</p>
 
@@ -157,4 +157,8 @@ It is also quoted that:
 Finally, for the Probe Attacks I will just quote this phrase that explains everything:
 > Probe requests are sent by client devices to ask if a known network is nearby. Use this attack to confuse WiFi trackers by asking for networks that you specified in the SSID list. It's unlikely you will see any impact by this attack with your home network.
 
+# Settings
 
+In the last page of the board's network, you can customize the settings , meaning you can change the name of the network from "pwned" to everything, the network's password and generally most things. It is advised you change both the name and the password, as the board's network is detected by other devices and everyone that knows about this project will know that there is a Wifi Deauther nearby. If you keep the default credentials, he will also able to connect to it. He probably won't be able to do anything, but why take the risk? You can see part of the Settings Page below:
+
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/.png"></p>
