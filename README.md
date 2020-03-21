@@ -1,7 +1,7 @@
 # Wifi Deauther with an ESP8266 board
 A tutorial on how to make a Wifi Deauther (with beacon and probe attacks included) with an ESP8266 board!
 
-<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/coollogo_com-29905756.jpg"></p>
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/coollogo_com-24212736.jpg"></p>
 
 ## Introduction
 Hello and welcome to my tutorial on how to make a Wifi Deauther with a simple ESP8266 board. There are a lot of tutorials on the internet,
