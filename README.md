@@ -40,4 +40,5 @@ you are defnitely going to need a micro-USB/USB cable, and if you plan to use it
 USB to micro-USB adapter.
 
 ## Programming the board
-In order to 
+> IF YOU HAVE A DSTIKE WiFi Deauther MiNi ESP8266 OLED BOARD OR ANY BOARD THAT IS ALREADY PROGRAMMED, SKIP THIS STEP
+In order to be able to use the ESP8266 board, we will need to program it to execute the attacks we want. I
