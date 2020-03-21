@@ -28,6 +28,9 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 # Disclaimer 
 The attacks that this Wifi Deauther can execute are powerful and thus illegal in most countries. Please do make sure you test and use this in networks you own and try not to harm or annoy others. I shall not be held responsible for any damage that you cause with this tool. Because that is its purpose. It is a tool, not a weapon. It is meant for you and me to learn and have fun, not to be used as a way to harm. Be wary of your actions!
 
+# Aknowledgement
+I would like to thank Stefan Kremser for creating the program that the board uses. You can check his github here: <a href="https://github.com/spacehuhn">spacehuhn (Stefan Kremser)</a> and this is where we will take the programs from. He was the one that started the Widi Deauther project and without his contribution I wouldn't be able to make this tutorial and also create, learn and have fun with the Deauther. You can also find him in his personal page, <a href="https://spacehuhn.io/">Spacehuhn</a>
+
 # What you will need
 The main thing we are going to need to make a Wifi Deauther is an ESP8266 board. However, we have to be careful when we are buying the
 board itself, as there are a lot of knock-off products that are low-quality and therefore their attacks are at best mediocre and won't last
