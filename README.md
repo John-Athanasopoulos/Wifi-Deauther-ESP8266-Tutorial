@@ -99,6 +99,7 @@ Now triple-check that you have correctly selected your Board's module and option
 
 <p align="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
 
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/Arduino.jpg"></p>
 
 # Connecting to the board's network
 
