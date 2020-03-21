@@ -105,3 +105,5 @@ Now triple-check that you have correctly selected your Board's module and option
 # Connecting to the board's network
 In order to use our Wifi Deauther, we need to connect to the board's network. Every time the board is connected to a laptop or smartphone (or any power source if it is a module with a screen), it creates a Wifi Network called "pwned" with "deauther" as password (both changeable in the future). Click on pwned and log into it. Now, in order to access the deauther's attacks, head to your browser and type either "deauther.me" or "192.168.4.1". You will see the following window:
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/2020-03-21 (1).png"></p>
+Read the message written and then press "I HAVE READ AND UNDERSTOOD THE NOTICE ABOVE". You will then be granted permission to the interface through which the actual attacks are going to be executed:
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/Inked2020-03-21 (2)_LI.jpg"></p>
