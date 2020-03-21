@@ -27,5 +27,10 @@ bought so we know it works for sure).
 Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
 would definitely stick with it.
 
-#### What else are you going to need though?
-In order for the board to work, you are definitely going to need a power source.
+**What else are you going to need though?**
+In order for the board to work, you are definitely going to need a power source. The main way you can power up these boards are with a
+micro-USB cable. They have to be connected to a laptop or smartphone with a cable and then they can be used by those devices. So you
+you are defnitely going to need a micro-USB/USB cable, and if you plan to use it through your smarthphone you will also need a
+USB to micro-USB adapter.
+
+
