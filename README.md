@@ -34,6 +34,7 @@ Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boar
 would definitely stick with it.
 
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/ESP8266Boards.jpg"></p>
+
 > In order: DSTIKE WiFi Deauther MiNi ESP8266 OLED, ESP8266 NodeMcu with CP2102, WeMos D1 Mini ESP8266 NodeMcu 4M
 
 **What else are you going to need though?**
