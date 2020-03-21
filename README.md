@@ -12,9 +12,14 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Hardware Prerequisites](#What-you-will-need)
 
+➼ [Disclaimer](#Disclaimer)
+
 ➼ [Programming the board](#Programming-the-board)
 
 <hr>
+
+# Disclaimer 
+The attacks that this Wifi Deauther can execute are powerful and thus illegal in most countries. Please do make sure you test and use this in networks you own and try not to harm or annoy others. I shall not be held responsible for any damage that you cause with this tool. Because that is its purpose. It is a tool, not a weapon. It is meant for you and me to learn and have fun, not to be used as a way to harm. Be wary of your actions!
 
 # What you will need
 The main thing we are going to need to make a Wifi Deauther is an ESP8266 board. However, we have to be careful when we are buying the
@@ -93,7 +98,6 @@ After these steps, in the "esp8266_deauther-master" folder you will find an "esp
 Now triple-check that you have correctly selected your Board's module and options and press the Upload button (Arrow under navigation bar).
 
 <p align="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
-
 
 
 # Connecting to the board's network
