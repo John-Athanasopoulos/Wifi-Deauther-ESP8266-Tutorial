@@ -7,6 +7,8 @@ but I realised that all of them either weren't very clear, or lacked some inform
 I decided that I should make my tutorial on the Wifi Deauther, having collected all the information in one place and trying to make the
 instructions simple and short. You can navigate to the sections of the tutorial clicking on the following links:
 
+[Go to Hardware Prerequisites](## What you will need (hardware))
+[Go to Real Cool Heading section](#real-cool-heading)
 
 ## What you will need (hardware)
 The main thing we are going to need to make a Wifi Deauther is an ESP8266 board. However, we have to be careful when we are buying the
@@ -33,4 +35,5 @@ micro-USB cable. They have to be connected to a laptop or smartphone with a cabl
 you are defnitely going to need a micro-USB/USB cable, and if you plan to use it through your smarthphone you will also need a
 USB to micro-USB adapter.
 
-
+## Programming the board
+In order to 
