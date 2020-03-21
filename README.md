@@ -41,4 +41,6 @@ USB to micro-USB adapter.
 
 ## Programming the board
 > IF YOU HAVE A DSTIKE WiFi Deauther MiNi ESP8266 OLED BOARD OR ANY BOARD THAT IS ALREADY PROGRAMMED, SKIP THIS STEP
-In order to be able to use the ESP8266 board, we will need to program it to execute the attacks we want. I
+
+In order to be able to use the ESP8266 board, we will need to program it to execute the attacks we want. In order to do that, we will
+need to download the ARDUINO IDE (found here: <a href="https://www.arduino.cc/en/Main/Software">ARDUINO IDE</a>).
