@@ -22,7 +22,7 @@ phase and you can use it without the need of it being plugged into a laptop or s
 
 • ***ESP8266 NodeMcu with CP2102*** or ***ESP8266 NodeMcu with CH340G*** (although the first one is better by far. It's also the one I
 bought so we know it works for sure).
-![ESP8266 with CP2102](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/NodeMcu-Lua-CP2102-1.jpg){:height="20%" width="20%")}
+![ESP8266 with CP2102](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/rsz_nodemcu-lua-cp2102-1.jpg)
 
 • ***WeMos D1 Mini ESP8266 NodeMcu 4M*** (generally most WeMos ESP8266 boards will work).
 
