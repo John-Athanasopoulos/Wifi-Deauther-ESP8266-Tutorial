@@ -136,9 +136,17 @@ We have finally arrived to the third and possibly the most important page. It's 
 
 In order to launch a Deauth Attack, we will first need to scan for the nearby Access Points and afterwards select one of them. After that, we navigate to the Attacks tab and we Start the Deauth Attack. Simple, yet effective, the little ESP8266 board will make sure that no-one is able to connect to that Wifi while the attack is being launched.
 It is also quoted that:
-> Closes the connection of WiFi devices by sending deauthentication frames to access points and client devices you selected.
+> The Deauth Attack closes the connection of WiFi devices by sending deauthentication frames to access points and client devices you selected.
 This is only possible because a lot of devices don't use the 802.11w-2009 standard that offers a protection against this attack.
 Please only select one target! When you select multiple targets that run on different channels and start the attack, it will quickly switch between those channels and you have no chance to reconnect to the access point that hosts this web interface.
 
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/DeauthAttack.png"></p>
+
+<hr>
+
+In order to launch the Beacon Attack, we need to create a number of fake networks (as shown before) and then head to the Attacks tab and start the Beacon Attack. You can see its results immediately.
+It is also quoted that:
+> Beacon packets are used to advertise access points. By continuously sending beacon packets out, it will look like you created new WiFi networks. You can specify the network names under SSIDs.
+
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/BeaconAttack.png"></p>
 
