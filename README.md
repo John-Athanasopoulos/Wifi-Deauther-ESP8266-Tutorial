@@ -13,6 +13,8 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Disclaimer](#Disclaimer)
 
+➼ [Aknowledgement](#Aknowledgement)
+
 ➼ [Hardware Prerequisites](#What-you-will-need)
 
 ➼ [Programming the board](#Programming-the-board)
