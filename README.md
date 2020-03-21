@@ -114,12 +114,12 @@ Read the message written and then press "I HAVE READ AND UNDERSTOOD THE NOTICE A
 
 # Using the network and attacking
 The interface of the board's network is really user-friendly and you can possibly figure out everything by yourself, as it gives you some very short directions about everything. However, as you probably have never done this again stick with this tutorial and I will guide you through every option. 
-The first page is Scan and you can easily understand what it does. THe first page is broken down to 3 simple categories. The first is Access Points are all the nearby Wifi Networks that the Deauther can detect/scan, then we have Stations and lastly the saved Devices.
+The first page is **Scan** and you can easily understand what it does. THe first page is broken down to 3 simple categories. The first is *Access Points*, and these are all the nearby Wifi Networks that the Deauther can detect/scan, then we have *Stations* and lastly the *Saved Devices*.
 To perform a scan, press APS and this will scan for all the nearby Access Points. After that, you can select a network that you want to attack with the Deauth Attack (we will get there in 2 minutes)
 
 <hr>
 
-The second page is called "SSIDs". It holds 4 values:
+The second page is called **SSIDs**. It holds 4 values:
 • SSID: Where you put the name you want to use in the Beacon/Probe Attack
 • WPA2 (radio button)
 • Number (The number of fake networks that are going to be created)
@@ -132,4 +132,13 @@ After you are done, click on Add and if you scroll down you will see as many fak
 
 <hr>
 
-We have finally arrived to the third and possibly the most important page. It's called Attacks
+We have finally arrived to the third and possibly the most important page. It's called **Attacks** and I guess that you can easily understand what you can do in this page. I will demonstrate two types of attacks (Deauth and Beacon) and describe the last one (Probe).
+
+In order to launch a Deauth Attack, we will first need to scan for the nearby Access Points and afterwards select one of them. After that, we navigate to the Attacks tab and we Start the Deauth Attack. Simple, yet effective, the little ESP8266 board will make sure that no-one is able to connect to that Wifi while the attack is being launched.
+It is also quoted that:
+> Closes the connection of WiFi devices by sending deauthentication frames to access points and client devices you selected.
+This is only possible because a lot of devices don't use the 802.11w-2009 standard that offers a protection against this attack.
+Please only select one target! When you select multiple targets that run on different channels and start the attack, it will quickly switch between those channels and you have no chance to reconnect to the access point that hosts this web interface.
+
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/DeauthAttack.png"></p>
+
