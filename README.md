@@ -44,3 +44,5 @@ USB to micro-USB adapter.
 
 In order to be able to use the ESP8266 board, we will need to program it to execute the attacks we want. In order to do that, we will
 need to download the ARDUINO IDE (found here: <a href="https://www.arduino.cc/en/Main/Software">ARDUINO IDE</a>).
+<p align="center">Be careful! We need to download the ARDUINO IDE and not use the ARDUINO WEB EDITOR.</p>
+
