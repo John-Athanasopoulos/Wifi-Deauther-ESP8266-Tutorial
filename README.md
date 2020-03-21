@@ -9,6 +9,7 @@ I decided that I should make my tutorial on the Wifi Deauther, having collected 
 instructions simple and short. You can navigate to the sections of the tutorial clicking on the following links:
 
 ➼ [Hardware Prerequisites](#What-you-will-need)
+
 ➼ [Programming the board](#Programming-the-board)
 
 # What you will need
