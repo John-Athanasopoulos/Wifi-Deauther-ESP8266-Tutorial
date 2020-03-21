@@ -64,7 +64,22 @@ and install both "arduino-esp8266-deauther" and "esp8266" (You probably already 
 
 > After their installation, you should be able to see the word "INSTALLED" next to each
 
+
 <p align="center"><b>Now we've come to the best part.. The programming of the board.</b></p>
-Connect the 
-In order to insert the programs we want our board to execute, we will
-first need to download them.
+
+Connect the board to your laptop with a micro-USB cable and head to Tools. There your board may be autoselected. In case this isn't
+your case, click on "Board" and search the one you have under the sub-category of "ESP8266 Deauther Modules". When you find it, select
+it. If everything has been done correctly and the cable you have is not of poor-quality, you will see that the port is auto-selected.
+(For ESP8266 with CP2102 Board buyers, I recommend changing Upload Speed to 115200)
+
+Now, in order to insert the programs we want our board to execute, we will need to download/clone them.
+
+<hr>
+• **For LINUX users:** Clone the repository with the command below.
+```
+~# git clone https://github.com/spacehuhn/esp8266_deauther.git
+```
+• **For Windows/MAC users:** Head to <a href="https://github.com/spacehuhn/esp8266_deauther.git">https://github.com/spacehuhn/esp8266_deauther.git</a> and click on Clone or Download/Download ZIP. After that, extract the folder "esp8266_deauther-master".
+<hr>
+
+After these steps
