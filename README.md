@@ -76,9 +76,11 @@ Now, in order to insert the programs we want our board to execute, we will need 
 
 <hr>
 • **For LINUX users:** Clone the repository with the command below.
+
 ```
 ~# git clone https://github.com/spacehuhn/esp8266_deauther.git
 ```
+
 • **For Windows/MAC users:** Head to <a href="https://github.com/spacehuhn/esp8266_deauther.git">https://github.com/spacehuhn/esp8266_deauther.git</a> and click on Clone or Download/Download ZIP. After that, extract the folder "esp8266_deauther-master".
 <hr>
 
