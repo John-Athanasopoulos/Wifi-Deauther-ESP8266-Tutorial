@@ -161,4 +161,4 @@ Finally, for the Probe Attacks I will just quote this phrase that explains every
 
 In the last page of the board's network, you can customize the settings , meaning you can change the name of the network from "pwned" to everything, the network's password and generally most things. It is advised you change both the name and the password, as the board's network is detected by other devices and everyone that knows about this project will know that there is a Wifi Deauther nearby. If you keep the default credentials, he will also able to connect to it. He probably won't be able to do anything, but why take the risk? You can see part of the Settings Page below:
 
-<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/.png"></p>
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/Settings.png"></p>
