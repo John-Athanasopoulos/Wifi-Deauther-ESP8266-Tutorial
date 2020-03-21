@@ -16,6 +16,8 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Programming the board](#Programming-the-board)
 
+➼ [Connecting to the board's network](#Connecting-to-the-board's-network)
+
 <hr>
 
 # Disclaimer 
