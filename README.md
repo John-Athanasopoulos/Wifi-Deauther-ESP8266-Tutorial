@@ -30,7 +30,7 @@ bought so we know it works for sure).
 Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
 would definitely stick with it.
 
-<p align="center">![DSTIKE WiFi Deauther MiNi ESP8266 OLED](https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/ESP8266Boards.jpg)</p>
+<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/ESP8266Boards.jpg"></p>
 
 **What else are you going to need though?**
 In order for the board to work, you are definitely going to need a power source. The main way you can power up these boards are with a
