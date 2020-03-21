@@ -88,4 +88,4 @@ After these steps, in the "esp8266_deauther-master" folder you will find an "esp
 
 Now triple-check that you have correctly selected your Board's module and options and press the Upload button (Arrow under navigation bar).
 
-<p style="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
+<p align="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
