@@ -84,4 +84,8 @@ Now, in order to insert the programs we want our board to execute, we will need 
 • **For Windows/MAC users:** Head to <a href="https://github.com/spacehuhn/esp8266_deauther.git">https://github.com/spacehuhn/esp8266_deauther.git</a> and click on Clone or Download/Download ZIP. After that, extract the folder "esp8266_deauther-master".
 <hr>
 
-After these steps
+After these steps, in the "esp8266_deauther-master" folder you will find an "esp8266_deauther" folder. Copy the last folder and paste it in the "Arduino" folder (Found probably in the Documents System Folder). The next step is to open the "esp8266_deauther.ino" file with Arduino from inside the "Arduino" folder. That means open ARDUINO IDE, and open .../Arduino/esp8266_deauther/esp8266_deauther.ino
+
+Now triple-check that you have correctly selected your Board's module and options and press the Upload button (Arrow under navigation bar).
+
+<p style="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
