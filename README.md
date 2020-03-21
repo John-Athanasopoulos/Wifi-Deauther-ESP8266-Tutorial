@@ -24,14 +24,17 @@ phase and you can use it without the need of it being plugged into a laptop or s
 • ***ESP8266 NodeMcu with CP2102*** or ***ESP8266 NodeMcu with CH340G*** (although the first one is better by far. It's also the one I
 bought so we know it works for sure).
 
-• ***WeMos D1 Mini ESP8266 NodeMcu 4M*** (generally most WeMos ESP8266 boards will work).
+• ***WeMos D1 Mini ESP8266 NodeMcu 4M*** (generally most WeMos ESP8266 boards will work, even if they are knock-offs).
 
 • Other knock-off products that might work, might not (is it really worth taking the risk?).
 
+There are of course a lot of boards that I have not included, as there are countless models of ESP8266 boards. These are just the most
+common.
 Personally, as I've read the ESP8266 NodeMcu with CP2102 is one of the best boards for this purpose, so if I was able to buy this one I
 would definitely stick with it.
 
 <p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/ESP8266Boards.jpg"></p>
+> In order: DSTIKE WiFi Deauther MiNi ESP8266 OLED, ESP8266 NodeMcu with CP2102, WeMos D1 Mini ESP8266 NodeMcu 4M
 
 **What else are you going to need though?**
 In order for the board to work, you are definitely going to need a power source. The main way you can power up these boards are with a
@@ -46,3 +49,4 @@ In order to be able to use the ESP8266 board, we will need to program it to exec
 need to download the ARDUINO IDE (found here: <a href="https://www.arduino.cc/en/Main/Software">ARDUINO IDE</a>).
 <p align="center">Be careful! We need to download the ARDUINO IDE and not use the ARDUINO WEB EDITOR.</p>
 
+Once we have downloaded the ARDUINO IDE, we need to open it
