@@ -14,6 +14,8 @@ instructions simple and short. You can navigate to the sections of the tutorial 
 
 ➼ [Programming the board](#Programming-the-board)
 
+<hr>
+
 # What you will need
 The main thing we are going to need to make a Wifi Deauther is an ESP8266 board. However, we have to be careful when we are buying the
 board itself, as there are a lot of knock-off products that are low-quality and therefore their attacks are at best mediocre and won't last
@@ -91,3 +93,6 @@ After these steps, in the "esp8266_deauther-master" folder you will find an "esp
 Now triple-check that you have correctly selected your Board's module and options and press the Upload button (Arrow under navigation bar).
 
 <p align="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
+
+# Connecting to the board's network
+
