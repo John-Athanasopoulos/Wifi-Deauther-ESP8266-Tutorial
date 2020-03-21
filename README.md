@@ -98,8 +98,8 @@ After these steps, in the "esp8266_deauther-master" folder you will find an "esp
 Now triple-check that you have correctly selected your Board's module and options and press the Upload button (Arrow under navigation bar).
 
 <p align="center"><b>CONGRATS! YOUR BOARD IS SET UP AND READY FOR USE!</b></p>
-
-<p align="center"><img src="https://github.com/John-Athanasopoulos/Wifi-Deauther-ESP8266/blob/master/Pictures/Arduino.jpg"></p>
+<hr>
+<hr>
 
 # Connecting to the board's network
 
