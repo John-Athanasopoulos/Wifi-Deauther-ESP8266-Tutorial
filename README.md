@@ -4,6 +4,9 @@ Thorough and simple tutorial on the WiFi Deauther using an ESP8266 board. Based 
 > [!CAUTION]
 > Using the WiFi Deauther on networks you don't own is illegal.
 
+> [!IMPORTANT]
+> The ESP8266 only supports **2.4 GHz** Wi-Fi, so 5 GHz networks will not appear in scans or be affected.
+
 ## Hardware Prerequisites
 
 ### Suitable boards
@@ -71,6 +74,10 @@ Your board is set up and ready to use.
 
 
 ## Connecting to the board network
+
+> [!IMPORTANT]
+> If connecting from a smartphone, temporarily turn off mobile data (or tap **Stay Connected** on the "No Internet" prompt) so your browser can load `192.168.4.1`.
+
 Power the board via micro-USB using a laptop, smartphone or power bank. Once powered on, open your device's Wi-Fi settings and connect to the network named `pwned` using the password `deauther`. Open a browser and navigate to `deauther.me` or `192.168.4.1` to load the control panel:
 
 <p align="center"><img src="./Pictures/2020-03-21%20(1).png"></p>
