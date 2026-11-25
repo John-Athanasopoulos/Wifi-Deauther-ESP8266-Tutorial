@@ -23,6 +23,9 @@ Thorough and simple tutorial on the WiFi Deauther using an ESP8266 board. Based 
 
 ### Cables needed
 
+> [!NOTE]
+> Flashing the board requires a **data-transfer micro-USB** cable. Many cheap cables bundled with power banks or accessories only carry power, which will prevent your board from appearing under `Tools > Port`.
+
 All boards (except the DSTIKE WiFi Deauther MiNi ESP8266 OLED) need to be connected with a micro-USB cable to a power source, such as a laptop, smartphone, or power bank.
 
 ## Programming the board
@@ -144,3 +147,7 @@ On the **Settings** page, you can customize the Deauther's own Wi-Fi hotspot—i
 
 > [!TIP]
 > Change the default hotspot name and password right away so others cannot connect to your board. After saving, reconnect your device using the new Wi-Fi credentials.
+
+## Troubleshooting
+- **Upload fails with `esptool.FatalError` or a timeout**: Hold down the **FLASH** button on the ESP8266 board when the upload begins and release it once the upload percentage starts climbing (required on some older NodeMCU revisions).
+- **`deauther.me` fails to load in the browser**: Navigate directly to `192.168.4.1` instead, as some browsers or custom DNS settings will not resolve `.me` domains locally.
